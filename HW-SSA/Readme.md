@@ -11,7 +11,7 @@
 
 ### 2.实验分析
 
-![image-20191019153729215](/Users/lgy/Library/Application Support/typora-user-images/image-20191019153729215.png)
+![result](/Users/lgy/Downloads/软件分析测试作业/SoftwareAnalysisTest/HW-SSA/result.png)
 
 如上图所示，左边为`Test.java`，右边为生成的`Test.shimple`。
 
