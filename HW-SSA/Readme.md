@@ -11,7 +11,7 @@
 
 ### 2.实验分析
 
-![result](/Users/lgy/Downloads/软件分析测试作业/SoftwareAnalysisTest/HW-SSA/result.png)
+![result](https://github.com/lgyhhh/SoftwareAnalysisTest/blob/master/HW-SSA/result.png)
 
 如上图所示，左边为`Test.java`，右边为生成的`Test.shimple`。
 
